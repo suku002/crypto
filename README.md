@@ -1,0 +1,2 @@
+# crypto
+trying new project
